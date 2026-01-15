@@ -2,6 +2,9 @@
 
 A lightweight, high-performance character counter built with **Vanilla JavaScript**. This project focuses on efficient **DOM manipulation** and real-time user feedback.
 
+## Live Demo🚀
+https://patelm36958-sketch.github.io/Real-time_character-counter/
+
 ## ✨ Key Features
 * **Real-time Monitoring:** Tracks every keystroke using JavaScript Event Listeners.
 * **Dynamic Feedback:** Updates the character count instantly as the user types.
